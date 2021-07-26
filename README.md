@@ -5,5 +5,5 @@ Hi there I'm Victor 👋
 
 
 
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorPolouchine&count_private=true&show_icons=true&?theme=dark)
+![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorPolouchine&count_private=true&show_icons=true&theme=highcontrast)
 
