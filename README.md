@@ -1,7 +1,7 @@
 Hi there I'm Victor 👋
 
-- 🔭 I’m currently working on my first PWA 
-- 🌱 I’m currently learning everything I can about JS
+- 🔭 I’m currently working on several side projects 
+- 🌱 I’m currently learning everything I can about JS ecosystem
 
 
 
